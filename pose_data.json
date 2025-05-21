@@ -1,0 +1,794 @@
+[
+    [
+        {
+            "distancia_ojos": 88.41164043304761,
+            "distancia_hombros": 475.27612040265603,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 82.67249958420273,
+            "distancia_hombros": 283.6722773509953,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 81.95289114599619,
+            "distancia_hombros": 287.0075401884069,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 78.50814796487687,
+            "distancia_hombros": 294.97872010112866,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 79.7984032186735,
+            "distancia_hombros": 317.6986460271746,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 76.25203314400049,
+            "distancia_hombros": 294.88787593761805,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 76.15085767737617,
+            "distancia_hombros": 289.4868439368187,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 75.9172201572624,
+            "distancia_hombros": 289.88390725857823,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 78.18364361492914,
+            "distancia_hombros": 314.9863960356066,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 76.48703551297109,
+            "distancia_hombros": 310.1452910532417,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 72.41388339132558,
+            "distancia_hombros": 294.5478526487674,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 62.062195130797015,
+            "distancia_hombros": 286.1147879348427,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 61.97791512216771,
+            "distancia_hombros": 290.76720983030395,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 62.84837284090973,
+            "distancia_hombros": 288.37441753300516,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.29406887066773,
+            "distancia_hombros": 282.9548191628833,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.05685188516135,
+            "distancia_hombros": 281.06392455720817,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.1289398700282,
+            "distancia_hombros": 280.826987440666,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 62.04953288502662,
+            "distancia_hombros": 278.1245505614346,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 61.084761966723335,
+            "distancia_hombros": 276.2271766589957,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 58.974367942511684,
+            "distancia_hombros": 272.18056104817623,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 60.6783170028378,
+            "distancia_hombros": 274.85989328656154,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 59.458828570043956,
+            "distancia_hombros": 271.5022444658607,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 59.57402908488102,
+            "distancia_hombros": 263.75031101877397,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 59.78840660573858,
+            "distancia_hombros": 264.7591623768666,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 59.84379487596229,
+            "distancia_hombros": 260.5239012547601,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 62.038227724675934,
+            "distancia_hombros": 264.9782125477489,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 63.60097087382983,
+            "distancia_hombros": 267.77951226242084,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 60.84497382564767,
+            "distancia_hombros": 272.1044003457129,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 60.63419711165474,
+            "distancia_hombros": 271.8691809722095,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 0.0,
+            "distancia_hombros": 698.2612333503844,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 54.569370182451024,
+            "distancia_hombros": 220.441513643642,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 43.67228169533351,
+            "distancia_hombros": 674.4928187164041,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 57.64939195323854,
+            "distancia_hombros": 222.20153788284185,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 41.8006058498446,
+            "distancia_hombros": 677.2387642109686,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 57.02089375149034,
+            "distancia_hombros": 215.359111427866,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 42.93052561170053,
+            "distancia_hombros": 668.9489190140007,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 56.803217063384714,
+            "distancia_hombros": 212.38365381132795,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 41.072827670511835,
+            "distancia_hombros": 679.7192435116134,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 59.43496971480679,
+            "distancia_hombros": 195.19227299639707,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.2637864087447,
+            "distancia_hombros": 638.8908602022727,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        },
+        {
+            "distancia_ojos": 57.99467285948016,
+            "distancia_hombros": 189.39800809076635,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 62.750688647864656,
+            "distancia_hombros": 181.52854673921124,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 55.99174002629205,
+            "distancia_hombros": 191.97380395837865,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 62.696310837067,
+            "distancia_hombros": 198.10855609993223,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 58.061625397072724,
+            "distancia_hombros": 185.70689481343982,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 63.329788483580145,
+            "distancia_hombros": 192.99101339181573,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 58.19522807165979,
+            "distancia_hombros": 183.5102176991788,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.922986226952,
+            "distancia_hombros": 190.5812859713671,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 57.54429976589232,
+            "distancia_hombros": 186.3063148923031,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 63.951210498463205,
+            "distancia_hombros": 191.60606152337667,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 55.35940807577335,
+            "distancia_hombros": 180.2030267763974,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.93283037830324,
+            "distancia_hombros": 206.1164435003913,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 57.08529973042535,
+            "distancia_hombros": 182.910582662677,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 63.9487519119314,
+            "distancia_hombros": 188.29795828354062,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 57.116644116721794,
+            "distancia_hombros": 184.19325788421247,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.63569030293944,
+            "distancia_hombros": 207.09056933199543,
+            "distancia_cadera": 0.0,
+            "emocion": "No detectado"
+        },
+        {
+            "distancia_ojos": 452.3665721790239,
+            "distancia_hombros": 169.33599066463987,
+            "distancia_cadera": 0.0,
+            "emocion": "No detectado"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 568.5716753409371,
+            "distancia_hombros": 127.26195609352388,
+            "distancia_cadera": 0.0,
+            "emocion": "No detectado"
+        },
+        {
+            "distancia_ojos": 58.00672189631345,
+            "distancia_hombros": 660.8976140447172,
+            "distancia_cadera": 0.0,
+            "emocion": "No detectado"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 619.1059834551754,
+            "distancia_hombros": 538.7251734418951,
+            "distancia_cadera": 0.0,
+            "emocion": "No detectado"
+        },
+        {
+            "distancia_ojos": 39.31232455992252,
+            "distancia_hombros": 668.7300931616581,
+            "distancia_cadera": 0.0,
+            "emocion": "No detectado"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.77758674479287,
+            "distancia_hombros": 626.4175424587022,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 72.35133936972936,
+            "distancia_hombros": 237.3845031668032,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.64231891362847,
+            "distancia_hombros": 189.6503876380167,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 70.7842128243032,
+            "distancia_hombros": 208.9971030002569,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.51974818590003,
+            "distancia_hombros": 620.9520915497427,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 67.84147566431983,
+            "distancia_hombros": 204.98096329293605,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.3530947257492,
+            "distancia_hombros": 197.10275516529444,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 58.2190099967356,
+            "distancia_hombros": 189.18046939364538,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 67.91050305940348,
+            "distancia_hombros": 187.42639180155498,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 58.016876922258575,
+            "distancia_hombros": 201.4511126334377,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 66.5832384066647,
+            "distancia_hombros": 194.15544271922948,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 58.00364515754592,
+            "distancia_hombros": 202.39196578051215,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 66.94383869380736,
+            "distancia_hombros": 191.4455393349503,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 58.39794784493716,
+            "distancia_hombros": 209.0693571371711,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 67.2952986958413,
+            "distancia_hombros": 623.3932346440728,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 57.146031754729044,
+            "distancia_hombros": 207.71721499733718,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 67.99400392911495,
+            "distancia_hombros": 620.2564489789687,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        },
+        {
+            "distancia_ojos": 60.02176119047366,
+            "distancia_hombros": 207.64405767442514,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 66.53380396694976,
+            "distancia_hombros": 187.0259006127226,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 57.872757870310835,
+            "distancia_hombros": 205.13892015534253,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 67.69067397913837,
+            "distancia_hombros": 186.3092292567655,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 57.0964994890777,
+            "distancia_hombros": 214.95016682652283,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 66.31663438454751,
+            "distancia_hombros": 184.1289884157299,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        },
+        {
+            "distancia_ojos": 56.80589680754433,
+            "distancia_hombros": 212.97988094536066,
+            "distancia_cadera": 0.0,
+            "emocion": "neutral"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 67.40891930852882,
+            "distancia_hombros": 619.7067350771654,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 58.99986551560414,
+            "distancia_hombros": 214.84913856878737,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 67.46453784906186,
+            "distancia_hombros": 621.4892396494085,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 56.01597803236033,
+            "distancia_hombros": 217.11829832777798,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 63.09676232593575,
+            "distancia_hombros": 216.7310401165463,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        },
+        {
+            "distancia_ojos": 58.57013065614695,
+            "distancia_hombros": 205.03583909282787,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.86965555881935,
+            "distancia_hombros": 239.46614615901348,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        },
+        {
+            "distancia_ojos": 60.327554387355825,
+            "distancia_hombros": 174.6392766622818,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.71494580049884,
+            "distancia_hombros": 237.7003924323643,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        },
+        {
+            "distancia_ojos": 60.26967796521937,
+            "distancia_hombros": 184.57699739878205,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.87677150132284,
+            "distancia_hombros": 239.1634754069902,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        },
+        {
+            "distancia_ojos": 58.31340433382363,
+            "distancia_hombros": 181.96994944220873,
+            "distancia_cadera": 0.0,
+            "emocion": "happy"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.4589523880799,
+            "distancia_hombros": 226.1952972543859,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        },
+        {
+            "distancia_ojos": 60.37740193203497,
+            "distancia_hombros": 180.3336805151079,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.5144197180948,
+            "distancia_hombros": 225.00825505689787,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 60.912264406095794,
+            "distancia_hombros": 204.84653173168445,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 65.46570696985178,
+            "distancia_hombros": 225.22647456227253,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        },
+        {
+            "distancia_ojos": 61.871571085545824,
+            "distancia_hombros": 177.87574666041462,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.12540737565533,
+            "distancia_hombros": 231.3685169270011,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        },
+        {
+            "distancia_ojos": 61.47384757396331,
+            "distancia_hombros": 174.6994293780034,
+            "distancia_cadera": 0.0,
+            "emocion": "fear"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 64.23014649485084,
+            "distancia_hombros": 222.4872450698017,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 60.30228823848126,
+            "distancia_hombros": 173.53568729695053,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ],
+    [
+        {
+            "distancia_ojos": 56.76956444491736,
+            "distancia_hombros": 205.33558660154358,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        },
+        {
+            "distancia_ojos": 53.718143266643395,
+            "distancia_hombros": 174.77943689833768,
+            "distancia_cadera": 0.0,
+            "emocion": "sad"
+        }
+    ]
+]
